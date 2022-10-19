@@ -1,7 +1,7 @@
 ### Hey, I'm Jaqueline. ^_^
 #### Wellcome to my GitHub.🖖🍕☕
 
-- 🌱 I’m currently learning C, JavaScript, Front-end.
+- 🌱 I’m currently learning C, JavaScript and Front-end.
 - 😄 Pronouns: She/Her
 
 ##
