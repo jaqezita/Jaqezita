@@ -1,5 +1,7 @@
+###  <img align="right" alt="Jaqe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1021438070727381063/1032125092269924394/download20221003035614.png?width=450&height=450">
 ### Hey, I'm Jaqueline. ^_^
 #### Wellcome to my GitHub.🖖🍕☕
+
 
 - 🌱 I’m currently learning C, JavaScript and Front-end.
 - 😄 Pronouns: She/Her
@@ -24,7 +26,6 @@
   <img align="center" alt="Jaqe-Spring" height="30" width="60" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Jaqe-Nodejs" height="30" width="60" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Jaqe-Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="right" alt="Jaqe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1021438070727381063/1032125092269924394/download20221003035614.png?width=450&height=450">
 </div>
   
   ##
