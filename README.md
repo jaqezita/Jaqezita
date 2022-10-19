@@ -11,7 +11,10 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jaqezita&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=false"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqezita&layout=compact&theme=gruvbox"/>
     </div>
-<div style="display: inline_block"><br>
+  
+ ## 
+  
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Jaqe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jaqe-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jaqe-HTML5" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,7 +28,7 @@
 </div>
   
   ##
-<div> 
+<div align="center"> 
   <a href = "mailto:jaque_hp@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jaqueline-ribeiro-inocencio-088967ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
