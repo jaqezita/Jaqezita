@@ -1,5 +1,5 @@
 ### Hey, I'm Jaqueline. ^_^
-#### Wellcame to my GitHub.🖖🍕☕
+#### Wellcome to my GitHub.🖖🍕☕
 
 - 🌱 I’m currently learning C, JavaScript, Front-end.
 - 😄 Pronouns: She/Her
