@@ -3,7 +3,7 @@
 #### Wellcome to my GitHub.🖖🍕☕
 
 
-- 🌱 I’m currently learning C, JavaScript and Front-end.
+- 🌱 I’m currently learning C, JavaScript, HTML and CSS.
 - 😄 Pronouns: She/Her
 
 ##
