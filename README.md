@@ -1,6 +1,6 @@
 ###  <img align="right" alt="Jaqe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1021438070727381063/1032125092269924394/download20221003035614.png?width=450&height=450">
 ### Hey, I'm Jaqueline. ^_^
-#### Wellcome to my GitHub.🖖🍕☕
+#### Welcome to my GitHub.🖖🍕☕
 
 
 - 🌱 I’m currently learning C, JavaScript, HTML and CSS.
