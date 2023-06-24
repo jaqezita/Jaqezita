@@ -33,3 +33,8 @@
   <a href = "mailto:jaque_hp@hotmail.com" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jaqueline-ribeiro-inocencio/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
+
+##
+<div align="center"> 
+  <img align="center" alt="Jaqe-pool" height="100" width="100" src="https://cdn.discordapp.com/attachments/1021438070727381063/1122112898576162847/InsigneaP3.png">
+</div>
