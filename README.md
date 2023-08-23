@@ -36,7 +36,7 @@
 
 ##
 <div align="center"> 
-  <img align="center" alt="Jaqe-pool" height="100" width="100" src="https://cdn.discordapp.com/attachments/1021438070727381063/1122112898576162847/InsigneaP3.png">
+ <a href = "https://www.42sp.org.br/" rel="esternal"><img align="center" alt="Jaqe-pool" height="100" width="100" src="https://cdn.discordapp.com/attachments/1021438070727381063/1122112898576162847/InsigneaP3.png"></a>
 </div>
 
 ##
