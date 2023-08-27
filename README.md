@@ -40,6 +40,8 @@
 </div>
 
 ##
-<div align="center"> 
+<div align="center" style="display: inline_block"> 
 <a href = "https://www.42sp.org.br/" rel="esternal" target="_blank"><img align="center" alt="Jaqe-pool" height="100" width="100" src="https://cdn.discordapp.com/attachments/1021438070727381063/1141564156219240478/libftm.png"><a>
+<a href = "https://www.42sp.org.br/" rel="esternal" target="_blank"><img align="center" alt="Jaqe-pool" height="100" width="100" src="https://cdn.discordapp.com/attachments/1021438070727381063/1145424743764336791/get_next_linem.png"><a>
+  
 </div>
