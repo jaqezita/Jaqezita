@@ -46,5 +46,5 @@
 <a href = "https://github.com/jaqezita/42_ft_printf" target="_blank"><img align="center" alt="Jaqe-pool" height="100" width="100" src="https://cdn.discordapp.com/attachments/1021438070727381063/1151593671544807454/ft_printfm.png"><a>
 <a href = "https://github.com/jaqezita/42_born2beroot" target="_blank"><img align="center" alt="Jaqe-pool" height="100" width="100" src="https://cdn.discordapp.com/attachments/1155374909153874016/1167631414682976276/born2berootm.png?ex=654ed47e&is=653c5f7e&hm=cad078251f8b9598464e2bc23fab84b6502c5a37a73e449a938073cd5060a806&"><a>
 <a href = "https://github.com/jaqezita/42_so_long" target="_blank"><img align="center" alt="Jaqe-pool" height="100" width="100" src="https://cdn.discordapp.com/attachments/1155374909153874016/1167631086151549018/so_longm.png?ex=654ed430&is=653c5f30&hm=e1beed59f9377885da671ce3de31c551f0a194ea72fb8412efafbb579698317f&"><a>
-
+<a href = "https://github.com/jaqezita/42_minitalk" target="_blank"><img align="center" alt="Jaqe-pool" height="100" width="100" src="https://cdn.discordapp.com/attachments/1155374909153874016/1170339132476755978/minitalkm.png?ex=6558ae41&is=65463941&hm=d07c047e1cfbf4236135959eac203c5320653a04ed58754877492fbe43f4a42f&"><a>
 </div>
