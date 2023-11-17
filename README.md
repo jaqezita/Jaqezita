@@ -48,3 +48,6 @@
 <a href = "https://github.com/jaqezita/42_so_long" target="_blank"><img align="center" alt="Jaqe-pool" height="100" width="100" src="https://cdn.discordapp.com/attachments/1155374909153874016/1167631086151549018/so_longm.png?ex=654ed430&is=653c5f30&hm=e1beed59f9377885da671ce3de31c551f0a194ea72fb8412efafbb579698317f&"><a>
 <a href = "https://github.com/jaqezita/42_minitalk" target="_blank"><img align="center" alt="Jaqe-pool" height="100" width="100" src="https://cdn.discordapp.com/attachments/1155374909153874016/1170339132476755978/minitalkm.png?ex=6558ae41&is=65463941&hm=d07c047e1cfbf4236135959eac203c5320653a04ed58754877492fbe43f4a42f&"><a>
 </div>
+
+##
+##
